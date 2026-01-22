@@ -124,5 +124,6 @@ overrides: [
     'dist/',
     'build/',
     'coverage/',
+    'commitlint.config.cjs',
   ],
 };
